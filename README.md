@@ -1,3 +1,3 @@
 oi, sou estudante aqui
-quero aprender masi sobrejava e html
+quero aprender mais sobre javascript e html
 ainda vou ser profissional em the spike
